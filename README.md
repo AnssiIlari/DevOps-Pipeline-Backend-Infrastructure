@@ -111,8 +111,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 Created by **Anssi Laitinen**  
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/anssi-laitinen-93a963269/))  
-- [Portfolio]([https://your-portfolio-url.com/](https://anssilaitinen.com/))  
+- [LinkedIn](https://www.linkedin.com/in/anssi-laitinen-93a963269/)  
+- [Portfolio](https://anssilaitinen.com/)  
 - [Email](mailto:korbikoski@gmail.com)
 
 ---
